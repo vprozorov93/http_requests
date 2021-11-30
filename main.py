@@ -8,6 +8,7 @@ if __name__ == '__main__':
           [1] Start superhero game
           [2] Start Ya file loader
           [3] Start something
+          [5] Exit
           """
     while True:
         print(menu_text)
